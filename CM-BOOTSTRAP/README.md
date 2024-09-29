@@ -25,3 +25,10 @@ The database used is Mongodb.
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/d3c4519b-81a4-4781-baa1-325f9c6c922d)
+<br>
+<br>
+<h3>DATABASE/h3>
+<br>
+<br>
+  
+![image](https://github.com/user-attachments/assets/2400d179-d7f5-4f06-9d16-67debfba5d3b)
