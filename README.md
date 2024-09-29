@@ -1,5 +1,6 @@
 # Clinic-Management-System
 It is the project of Basic implementation of MERN project with the use of CSS framework like Bootstrap and Tailwind.<br>
+It is simple clinic management system where appointment are made, patient details and appoinment history is there.
 Here are link and source code to visit
 <ol>
 <li>
