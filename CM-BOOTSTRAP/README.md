@@ -27,7 +27,7 @@ The database used is Mongodb.
 ![image](https://github.com/user-attachments/assets/d3c4519b-81a4-4781-baa1-325f9c6c922d)
 <br>
 <br>
-<h3>DATABASE/h3>
+<h3>DATABASE</h3>
 <br>
 <br>
   
